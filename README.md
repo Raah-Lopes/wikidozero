@@ -1,3 +1,5 @@
 # Wiki DoZero
 
-Bem-vindo à wiki da sua campanha!
+Bem-vindo a wiki da sua campanha!
+
+>
